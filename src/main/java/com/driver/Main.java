@@ -8,6 +8,8 @@ public class Main {
         int ans=p.product(10,20);
         int ans1=p.product(10,20,30);
         double ans2=p.product(10.1,12.0);
+
+        System.out.println(ans+" "+ans1+" "+ans2);
     }
 
 
